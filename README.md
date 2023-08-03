@@ -1,8 +1,30 @@
-# Tecnologias-emergentes-uniAlfa
-## Repositorio para ser usado durante a aula de tecnologias emergentes na faculdade unialfa
+<h1 align="center">Tecnologias emergentes unialfa</h1>
 
-## Tecnologias abordadas
-- ### GIT <br /><img src="https://skillicons.dev/icons?i=git" />
-- ### GITHUB <br /><img src="https://skillicons.dev/icons?i=github" />
-- ### DOCKER  <br /><img src="https://skillicons.dev/icons?i=docker" />
-- ### PHP POO <br /><img src="https://skillicons.dev/icons?i=php" />
+
+
+<div align="center">
+  <strong>🚀 Repositório para ser ultilizado durante as aulas na universidade 📚</strong>
+</div>
+
+<div align="center">
+  <p>Um repositório incrível com um proposta estudantil! 🎉</p>
+  <p>Aqui você encontrará informações sobre o projeto, tecnologias utilizadas, instruções para configurar o ambiente de desenvolvimento e muito mais.</p>
+  <p>Explore, colabore e divirta-se! 😄</p>
+</div>
+
+## 📖 Índice
+
+- [Visão Geral](#visão-geral)
+- [Tecnologias](#tecnologias)
+- [Configuração do Ambiente](#configuração-do-ambiente)
+- [Como Contribuir](#como-contribuir)
+- [Licença](#licença)
+
+
+## 💻 Tecnologias
+
+- [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+- ...
+
